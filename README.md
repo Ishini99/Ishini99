@@ -4,3 +4,5 @@ Motivated undergraduate student, possessing a strong passion for software engine
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ishini99&layout=compact&theme=tokyonight)](https://github.com/Ishini99)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ishini99&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Ishini99)
