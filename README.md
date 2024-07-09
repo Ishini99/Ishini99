@@ -7,5 +7,5 @@ A motivated individual with hands-on experience in robust application developmen
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ishini99&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Ishini99)
 
 
-[![ GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ishini99&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/Ishini99)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ishini99&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/Ishini99)
 
