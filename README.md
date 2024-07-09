@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Ishini👋
 
 A motivated individual with hands-on experience in robust application development. Proven ability to master new skills and enhance existing ones. Seeking opportunities to leverage full-stack development skills and contribute positively to a dynamic team.
 
