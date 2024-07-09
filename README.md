@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Motivated undergraduate student, possessing a strong passion for software engineering, is eager to embark on a journey of continuous learning dedicated to mastering new skills while honing existing abilities in the dynamic field of software engineering. Through the completion of a software engineering internship, the aim is to apply academic knowledge and cultivate a deeper understanding of the industry's best practices. Recognized as a team player, exceptional interpersonal skills are possessed, enabling effective collaboration with diverse groups.
+A motivated individual with hands-on experience in robust application development. Proven ability to master new skills and enhance existing ones. Seeking opportunities to leverage full-stack development skills and contribute positively to adynamic team.
 
 
 
